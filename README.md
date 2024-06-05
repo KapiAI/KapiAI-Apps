@@ -12,8 +12,11 @@
 ### 1. 看看舌苔AI
 
 - 预览地址：[看看舌苔AI](https://aiyeshi.cn/projects/shetai)
+  
 - 大模型：通义千问vl + 通义千问plus
+  
 - 前端：Nuxt3 + TailwindCSS + Vant + Supabase
+  
 - 后端：MidwayJS + Supabase
 
 ![看看舌苔](https://static-main.aiyeshi.cn/images/shetai-product-detail.jpg)

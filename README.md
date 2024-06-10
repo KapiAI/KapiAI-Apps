@@ -4,19 +4,39 @@
 
 ![website](https://static-main.aiyeshi.cn/images/kapi-website.png)
 
-这个 Repo 会分享应用的教程，应用的源代码可自行进入 [KapiAI](https://aiyeshi.cn) 网站购买（付费）。
+这个 Repo 会分享应用的展示列表 + 项目教程。应用的源代码可自行进入 [KapiAI](https://aiyeshi.cn) 网站获取。
 
 ## 项目
 
 
 ### 1. 看看舌苔AI
 
-- 预览地址：[看看舌苔AI](https://aiyeshi.cn/projects/shetai)
+- [项目预览地址](https://aiyeshi.cn/projects/shetai)
+
+- [前后端源代码获取地址](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1106831100&from=items_share&msource=items_share)
   
-- 大模型：通义千问vl + 通义千问plus
+- 技术栈：
+  - 大模型：通义千问vl + 通义千问plus
   
-- 前端：Nuxt3 + TailwindCSS + Vant + Supabase
+  - 前端：Nuxt3 + TailwindCSS + Vant + Supabase
   
-- 后端：MidwayJS + Supabase
+  - 后端：MidwayJS + Supabase
 
 ![看看舌苔](https://static-main.aiyeshi.cn/images/shetai-product-detail.jpg)
+
+
+### 2. 高考AI
+
+- [项目预览地址](https://aiyeshi.cn/projects/gaokao)
+
+- [前后端源代码获取地址](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1106861100&from=items_share&msource=items_share)
+
+- 技术栈
+  
+  - 大模型：智谱清言-GLM4
+  
+  - 前端：Nuxt3 + TailwindCSS + Vant
+  
+  - 后端：MidwayJS
+
+![看看舌苔](https://static-main.aiyeshi.cn/images/gaokao-202406/cover-images.jpg)

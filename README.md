@@ -11,7 +11,7 @@
 
 ### 1. 看看舌苔AI
 
-- [项目预览地址](https://aiyeshi.cn/projects/shetai)
+- [项目预览地址](https://aiyeshi.cn)
 
 - [前后端源代码获取地址](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1106831100&from=items_share&msource=items_share)
   
@@ -27,7 +27,7 @@
 
 ### 2. 高考AI
 
-- [项目预览地址](https://aiyeshi.cn/projects/gaokao)
+- [项目预览地址](https://aiyeshi.cn)
 
 - [前后端源代码获取地址](https://mall.bilibili.com/neul-next/index.html?page=mall-up_itemDetail&noTitleBar=1&itemsId=1106861100&from=items_share&msource=items_share)
 
@@ -40,3 +40,22 @@
   - 后端：MidwayJS
 
 ![看看舌苔](https://static-main.aiyeshi.cn/images/gaokao-202406/cover-images.jpg)
+
+
+
+### 3. 七分饱
+
+
+- [项目预览地址](https://aiyeshi.cn)
+
+- [前后端源代码获取地址](https://gf.bilibili.com/item/detail/1107863100)
+
+- 技术栈
+  
+  - 大模型：通义千万plus
+  
+  - 前端：Nuxt3 + TailwindCSS + Vant
+  
+  - 后端：MidwayJS + Supabase
+
+![看看舌苔](https://static-main.aiyeshi.cn/projects/7fenbao/985shotsso.png)
